@@ -1,0 +1,1 @@
+g++ main.cc -o app `pkg-config opencv4 --cflags --libs`
