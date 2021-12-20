@@ -1,10 +1,10 @@
 - Assumes all necessary prerequisites are installed.
 
-- After start the ubuntu instance, run `. setup.sh`
+- After starting up the ubuntu terminal instance, switch to appropriate folder and run `. setup.sh`
 
-- Complie and Build executable with `. build.sh`
+- Compile and Build executable with `. build.sh`
 
-- Run Executable with `./app -f <filename.ext>`
+- Run Executable with `./app -args <value>`
 
 <br>
 
